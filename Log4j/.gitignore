@@ -1,0 +1,6 @@
+/log/
+/wssts-4.6.1Log4jlogsENETDebug.log
+/wssts-4.6.1Log4jlogsencryptDebug.log
+/wssts-4.6.1Log4jlogsencryptHealthCheck.log
+/wssts-4.6.1Log4jlogsencryptStatus.log
+/wssts-4.6.1Log4jlogsguiDebug.log
